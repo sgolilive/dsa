@@ -1,2 +1,2 @@
 # dsa
-repo cotains code and explanations for data structures and algorithms asked by FAANG
+repo contains answers to the most common DSA questions asked by FAANG.
